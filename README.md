@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atheeque</h1>
 <h3 align="center">A passionate Software Engineering Student from Sri Lanka🇱🇰</h3>
 
+[![Alt text](./Make your README.png)](https://www.linkedin.com/in/atheequefurkhan/)
+
 - 🔭 I’m currently working on **Real time ticket booking System**
 
 - 🌱 I’m currently learning **Spring , Angular and Flutter**
