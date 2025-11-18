@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Atheeque</h1>
-<h3 align="center">A passionate Software Engineering Student from Sri Lanka🇱🇰</h3>
+<h3 align="center">A passionate Software Engineering Student from Sri Lanka 🇱🇰</h3>
 
 [![Alt text](./image.png)](https://www.linkedin.com/in/atheequefurkhan/)
 
 - 🔭 I’m currently working on **Integration Finance Data into Looker Studio **
+  
 - 👯 I’m looking to collaborate on **Robotics Projects and AI**
+  
 - 🌱 I’m currently learning **AI and Large Language Models**
+  
 - 💬 Ask me about **Golang , React and Java**
+  
 - 📫 How to reach me **atheequemf2003@gmail.com**
 
 <div> <a href = "mailto:atheequemf2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
