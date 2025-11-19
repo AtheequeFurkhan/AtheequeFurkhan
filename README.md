@@ -3,7 +3,7 @@
 
 [![Alt text](./image.png)](https://www.linkedin.com/in/atheequefurkhan/)
 
-- 🔭 I’m currently working on **Integration Finance Data into Looker Studio **
+- 🔭 I’m currently working on **Integration Finance Data into Looker Studio**
   
 - 👯 I’m looking to collaborate on **Robotics Projects and AI**
   
